@@ -1,0 +1,17 @@
+.head{
+    background-color: crimson;
+}
+.footer{
+    background-color: crimson;
+    color: white
+    
+
+ 
+}
+.skills{  
+    color: crimson;
+   
+ }
+ .fa-spin-hover:not(:hover) {
+    animation: none;
+ }
